@@ -1,4 +1,5 @@
-# Springboard Capstone Three Project
+# AI Crowd KDD Amazon Challenge
+## NLP Sentence Transformer
 
 ### <font color=teal>The challenge</font>
 How does an ecommerce website know what to show a customer who is searching for a product?  For example, on the Amazon shopping website a customer might search for "pencil with eraser", and the algorythm needs to be able to find the right products to show the customer.
